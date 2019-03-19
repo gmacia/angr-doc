@@ -66,6 +66,7 @@ Look at the existing versions for details.
 .. automodule:: cle.backends.elf.relocation.armel
 .. automodule:: cle.backends.elf.relocation.ppc
 .. automodule:: cle.backends.elf.relocation.armhf
+.. automodule:: cle.backends.elf.relocation.arm_cortex_m
 .. automodule:: cle.backends.elf.relocation.pcc64
 .. automodule:: cle.backends.elf.relocation.i386
 .. automodule:: cle.backends.elf.relocation.amd64
